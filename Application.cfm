@@ -1,4 +1,4 @@
-<cfsilent>
+<cfsilent> 
 	<!---
 		sample Application.cfm for ColdFusion MX 6.1 and other compatible systems that do not support Application.cfc
 		
